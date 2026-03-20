@@ -1,0 +1,13 @@
+[build]
+builder = "nixpacks"
+buildCommand = "npm ci && npm run build"
+
+[deploy]
+startCommand = "npm start"
+healthcheckPath = "/"
+restartPolicyType = "on_failure"
+
+[[crons]]
+name = "fetch-scores"
+schedule = "30 18 * * *"
+command = "npm run fetch-scores"
