@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1,
+    "name": "MS Dhoni",
+    "team": "Chennai Super Kings",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 2,
+    "name": "Ruturaj Gaikwad",
+    "team": "Chennai Super Kings",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 3,
+    "name": "Sanju Samson",
+    "team": "Chennai Super Kings",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 4,
+    "name": "Ayush Mhatre",
+    "team": "Chennai Super Kings",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 5,
+    "name": "Dewald Brevis",
+    "team": "Chennai Super Kings",
+    "role": "Batter",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 6,
+    "name": "Shivam Dube",
+    "team": "Chennai Super Kings",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 7,
+    "name": "Urvil Patel",
+    "team": "Chennai Super Kings",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 8,
+    "name": "Noor Ahmad",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "Afghanistan",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 9,
+    "name": "Nathan Ellis",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "Australia",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 10,
+    "name": "Shreyas Gopal",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 11,
+    "name": "Khaleel Ahmed",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 12,
+    "name": "Ramakrishna Ghosh",
+    "team": "Chennai Super Kings",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 13,
+    "name": "Mukesh Choudhary",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 14,
+    "name": "Jamie Overton",
+    "team": "Chennai Super Kings",
+    "role": "All-Rounder",
+    "nationality": "England",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 15,
+    "name": "Gurjapneet Singh",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 16,
+    "name": "Anshul Kamboj",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 17,
+    "name": "Prashant Veer",
+    "team": "Chennai Super Kings",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹14.20",
+    "status": "Indian"
+  },
+  {
+    "id": 18,
+    "name": "Kartik Sharma",
+    "team": "Chennai Super Kings",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹14.20",
+    "status": "Indian"
+  },
+  {
+    "id": 19,
+    "name": "Rahul Chahar",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹5.20",
+    "status": "Indian"
+  },
+  {
+    "id": 20,
+    "name": "Akeal Hosein",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "West Indies",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 21,
+    "name": "Matt Henry",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "New Zealand",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 22,
+    "name": "Matthew Short",
+    "team": "Chennai Super Kings",
+    "role": "All-Rounder",
+    "nationality": "Australia",
+    "acquisition": "Auction",
+    "price": "₹1.50",
+    "status": "Overseas"
+  },
+  {
+    "id": 23,
+    "name": "Sarfaraz Khan",
+    "team": "Chennai Super Kings",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.75",
+    "status": "Indian"
+  },
+  {
+    "id": 24,
+    "name": "Zak Foulkes",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "England",
+    "acquisition": "Auction",
+    "price": "₹0.75",
+    "status": "Overseas"
+  },
+  {
+    "id": 25,
+    "name": "Aman Khan",
+    "team": "Chennai Super Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.40",
+    "status": "Indian"
+  },
+  {
+    "id": 26,
+    "name": "KL Rahul",
+    "team": "Delhi Capitals",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 27,
+    "name": "Axar Patel",
+    "team": "Delhi Capitals",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 28,
+    "name": "Kuldeep Yadav",
+    "team": "Delhi Capitals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 29,
+    "name": "Tristan Stubbs",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 30,
+    "name": "Abishek Porel",
+    "team": "Delhi Capitals",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 31,
+    "name": "Mitchell Starc",
+    "team": "Delhi Capitals",
+    "role": "Bowler",
+    "nationality": "Australia",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 32,
+    "name": "Nitish Rana",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 33,
+    "name": "Ajay Mandal",
+    "team": "Delhi Capitals",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 34,
+    "name": "Ashutosh Sharma",
+    "team": "Delhi Capitals",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 35,
+    "name": "Dushmantha Chameera",
+    "team": "Delhi Capitals",
+    "role": "Bowler",
+    "nationality": "Sri Lanka",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 36,
+    "name": "Karun Nair",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 37,
+    "name": "Kuldeep Yadav",
+    "team": "Delhi Capitals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 38,
+    "name": "Madhav Tiwari",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 39,
+    "name": "Sameer Rizvi",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 40,
+    "name": "T Natarajan",
+    "team": "Delhi Capitals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 41,
+    "name": "Tripurana Vijay",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 42,
+    "name": "Vipraj Nigam",
+    "team": "Delhi Capitals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 43,
+    "name": "Mukesh Kumar",
+    "team": "Delhi Capitals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 44,
+    "name": "Auqib Nabi Dar",
+    "team": "Delhi Capitals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹8.40",
+    "status": "Indian"
+  },
+  {
+    "id": 45,
+    "name": "Pathum Nissanka",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "Sri Lanka",
+    "acquisition": "Auction",
+    "price": "₹4.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 46,
+    "name": "David Miller",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "South Africa",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 47,
+    "name": "Ben Duckett",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "England",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 48,
+    "name": "Lungi Ngidi",
+    "team": "Delhi Capitals",
+    "role": "Bowler",
+    "nationality": "South Africa",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 49,
+    "name": "Kyle Jamieson",
+    "team": "Delhi Capitals",
+    "role": "All-Rounder",
+    "nationality": "New Zealand",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 50,
+    "name": "Prithvi Shaw",
+    "team": "Delhi Capitals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.75",
+    "status": "Indian"
+  },
+  {
+    "id": 51,
+    "name": "Shubman Gill",
+    "team": "Gujarat Titans",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 52,
+    "name": "Rashid Khan",
+    "team": "Gujarat Titans",
+    "role": "All-Rounder",
+    "nationality": "Afghanistan",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 53,
+    "name": "B Sai Sudharsan",
+    "team": "Gujarat Titans",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 54,
+    "name": "Jos Buttler",
+    "team": "Gujarat Titans",
+    "role": "Wicket-Keeper",
+    "nationality": "England",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 55,
+    "name": "Kagiso Rabada",
+    "team": "Gujarat Titans",
+    "role": "Bowler",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 56,
+    "name": "Washington Sundar",
+    "team": "Gujarat Titans",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 57,
+    "name": "Rahul Tewatia",
+    "team": "Gujarat Titans",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 58,
+    "name": "Mohammed Siraj",
+    "team": "Gujarat Titans",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 59,
+    "name": "M Shahrukh Khan",
+    "team": "Gujarat Titans",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 60,
+    "name": "Anuj Rawat",
+    "team": "Gujarat Titans",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 61,
+    "name": "Glenn Phillips",
+    "team": "Gujarat Titans",
+    "role": "All-Rounder",
+    "nationality": "New Zealand",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 62,
+    "name": "Gurnoor Brar",
+    "team": "Gujarat Titans",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 63,
+    "name": "Ishant Sharma",
+    "team": "Gujarat Titans",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 64,
+    "name": "Jayant Yadav",
+    "team": "Gujarat Titans",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 65,
+    "name": "Kumar Kushagra",
+    "team": "Gujarat Titans",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 66,
+    "name": "Manav Suthar",
+    "team": "Gujarat Titans",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 67,
+    "name": "Arshad Khan",
+    "team": "Gujarat Titans",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 68,
+    "name": "Nishant Sindhu",
+    "team": "Gujarat Titans",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 69,
+    "name": "Prasidh Krishna",
+    "team": "Gujarat Titans",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 70,
+    "name": "R Sai Kishore",
+    "team": "Gujarat Titans",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 71,
+    "name": "Jason Holder",
+    "team": "Gujarat Titans",
+    "role": "All-Rounder",
+    "nationality": "West Indies",
+    "acquisition": "Auction",
+    "price": "₹7.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 72,
+    "name": "Tom Banton",
+    "team": "Gujarat Titans",
+    "role": "Wicket-Keeper",
+    "nationality": "England",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 73,
+    "name": "Ashok Sharma",
+    "team": "Gujarat Titans",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.90",
+    "status": "Indian"
+  },
+  {
+    "id": 74,
+    "name": "Luke Wood",
+    "team": "Gujarat Titans",
+    "role": "Bowler",
+    "nationality": "England",
+    "acquisition": "Auction",
+    "price": "₹0.75",
+    "status": "Overseas"
+  },
+  {
+    "id": 75,
+    "name": "Prithvi Raj",
+    "team": "Gujarat Titans",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 76,
+    "name": "Sunil Narine",
+    "team": "Kolkata Knight Riders",
+    "role": "All-Rounder",
+    "nationality": "West Indies",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 77,
+    "name": "Rinku Singh",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 78,
+    "name": "Varun Chakravarthy",
+    "team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 79,
+    "name": "Harshit Rana",
+    "team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 80,
+    "name": "Ajinkya Rahane",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 81,
+    "name": "Angkrish Raghuvanshi",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 82,
+    "name": "Anukul Roy",
+    "team": "Kolkata Knight Riders",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 83,
+    "name": "Manish Pandey",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 84,
+    "name": "Ramandeep Singh",
+    "team": "Kolkata Knight Riders",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 85,
+    "name": "Rovman Powell",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "West Indies",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 86,
+    "name": "Umran Malik",
+    "team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 87,
+    "name": "Vaibhav Arora",
+    "team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 88,
+    "name": "Cameron Green",
+    "team": "Kolkata Knight Riders",
+    "role": "All-Rounder",
+    "nationality": "Australia",
+    "acquisition": "Auction",
+    "price": "₹25.20",
+    "status": "Overseas"
+  },
+  {
+    "id": 89,
+    "name": "Matheesha Pathirana",
+    "team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "nationality": "Sri Lanka",
+    "acquisition": "Auction",
+    "price": "₹18.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 90,
+    "name": "Blessing Muzarabani",
+    "team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "nationality": "Zimbabwe",
+    "acquisition": "Replacement",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 91,
+    "name": "Tejasvi Singh",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹3.00",
+    "status": "Indian"
+  },
+  {
+    "id": 92,
+    "name": "Finn Allen",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "New Zealand",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 93,
+    "name": "Rachin Ravindra",
+    "team": "Kolkata Knight Riders",
+    "role": "All-Rounder",
+    "nationality": "New Zealand",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 94,
+    "name": "Tim Seifert",
+    "team": "Kolkata Knight Riders",
+    "role": "Wicket-Keeper",
+    "nationality": "New Zealand",
+    "acquisition": "Auction",
+    "price": "₹1.50",
+    "status": "Overseas"
+  },
+  {
+    "id": 95,
+    "name": "Akash Deep",
+    "team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹1.00",
+    "status": "Indian"
+  },
+  {
+    "id": 96,
+    "name": "Rahul Tripathi",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.75",
+    "status": "Indian"
+  },
+  {
+    "id": 97,
+    "name": "Prashant Solanki",
+    "team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 98,
+    "name": "Kartik Tyagi",
+    "team": "Kolkata Knight Riders",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 99,
+    "name": "Sarthak Ranjan",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 100,
+    "name": "Daksh Kamra",
+    "team": "Kolkata Knight Riders",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 101,
+    "name": "Rishabh Pant",
+    "team": "Lucknow Super Giants",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 102,
+    "name": "Nicholas Pooran",
+    "team": "Lucknow Super Giants",
+    "role": "Wicket-Keeper",
+    "nationality": "West Indies",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 103,
+    "name": "Mitchell Marsh",
+    "team": "Lucknow Super Giants",
+    "role": "All-Rounder",
+    "nationality": "Australia",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 104,
+    "name": "Mayank Yadav",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 105,
+    "name": "Aiden Markram",
+    "team": "Lucknow Super Giants",
+    "role": "All-Rounder",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 106,
+    "name": "Mohammed Shami",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 107,
+    "name": "Arjun Tendulkar",
+    "team": "Lucknow Super Giants",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 108,
+    "name": "Abdul Samad",
+    "team": "Lucknow Super Giants",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 109,
+    "name": "Akash Singh",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 110,
+    "name": "Arshin Kulkarni",
+    "team": "Lucknow Super Giants",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 111,
+    "name": "Avesh Khan",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 112,
+    "name": "Ayush Badoni",
+    "team": "Lucknow Super Giants",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 113,
+    "name": "Digvesh Rathi",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 114,
+    "name": "Himmat Singh",
+    "team": "Lucknow Super Giants",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 115,
+    "name": "Manimaran Siddharth",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 116,
+    "name": "Matthew Breetzke",
+    "team": "Lucknow Super Giants",
+    "role": "Batter",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 117,
+    "name": "Mohsin Khan",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 118,
+    "name": "Prince Yadav",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 119,
+    "name": "Shahbaz Ahmed",
+    "team": "Lucknow Super Giants",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 120,
+    "name": "Josh Inglis",
+    "team": "Lucknow Super Giants",
+    "role": "Wicket-Keeper",
+    "nationality": "Australia",
+    "acquisition": "Auction",
+    "price": "₹8.60",
+    "status": "Overseas"
+  },
+  {
+    "id": 121,
+    "name": "Mukul Choudhary",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹2.60",
+    "status": "Indian"
+  },
+  {
+    "id": 122,
+    "name": "Akshat Raghuwanshi",
+    "team": "Lucknow Super Giants",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹2.20",
+    "status": "Indian"
+  },
+  {
+    "id": 123,
+    "name": "Wanindu Hasaranga",
+    "team": "Lucknow Super Giants",
+    "role": "All-Rounder",
+    "nationality": "Sri Lanka",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 124,
+    "name": "Anrich Nortje",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "South Africa",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 125,
+    "name": "Naman Tiwari",
+    "team": "Lucknow Super Giants",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹1.00",
+    "status": "Indian"
+  },
+  {
+    "id": 126,
+    "name": "Rohit Sharma",
+    "team": "Mumbai Indians",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 127,
+    "name": "Jasprit Bumrah",
+    "team": "Mumbai Indians",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 128,
+    "name": "Suryakumar Yadav",
+    "team": "Mumbai Indians",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 129,
+    "name": "Hardik Pandya",
+    "team": "Mumbai Indians",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 130,
+    "name": "Tilak Varma",
+    "team": "Mumbai Indians",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 131,
+    "name": "Shardul Thakur",
+    "team": "Mumbai Indians",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 132,
+    "name": "Sherfane Rutherford",
+    "team": "Mumbai Indians",
+    "role": "All-Rounder",
+    "nationality": "West Indies",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 133,
+    "name": "Mayank Markande",
+    "team": "Mumbai Indians",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 134,
+    "name": "AM Ghazanfar",
+    "team": "Mumbai Indians",
+    "role": "Bowler",
+    "nationality": "Afghanistan",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 135,
+    "name": "Ashwani Kumar",
+    "team": "Mumbai Indians",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 136,
+    "name": "Corbin Bosch",
+    "team": "Mumbai Indians",
+    "role": "All-Rounder",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 137,
+    "name": "Deepak Chahar",
+    "team": "Mumbai Indians",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 138,
+    "name": "Mitchell Santner",
+    "team": "Mumbai Indians",
+    "role": "All-Rounder",
+    "nationality": "New Zealand",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 139,
+    "name": "Naman Dhir",
+    "team": "Mumbai Indians",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 140,
+    "name": "Raghu Sharma",
+    "team": "Mumbai Indians",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 141,
+    "name": "Raj Bawa",
+    "team": "Mumbai Indians",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 142,
+    "name": "Robin Minz",
+    "team": "Mumbai Indians",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 143,
+    "name": "Ryan Rickelton",
+    "team": "Mumbai Indians",
+    "role": "Wicket-Keeper",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 144,
+    "name": "Trent Boult",
+    "team": "Mumbai Indians",
+    "role": "Bowler",
+    "nationality": "New Zealand",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 145,
+    "name": "Will Jacks",
+    "team": "Mumbai Indians",
+    "role": "All-Rounder",
+    "nationality": "England",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 146,
+    "name": "Quinton de Kock",
+    "team": "Mumbai Indians",
+    "role": "Wicket-Keeper",
+    "nationality": "South Africa",
+    "acquisition": "Auction",
+    "price": "₹1.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 147,
+    "name": "Atharva Ankolekar",
+    "team": "Mumbai Indians",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 148,
+    "name": "Mohammad Izhar",
+    "team": "Mumbai Indians",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 149,
+    "name": "Danish Malewar",
+    "team": "Mumbai Indians",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 150,
+    "name": "Mayank Rawat",
+    "team": "Mumbai Indians",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 151,
+    "name": "Shreyas Iyer",
+    "team": "Punjab Kings",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 152,
+    "name": "Arshdeep Singh",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 153,
+    "name": "Prabhsimran Singh",
+    "team": "Punjab Kings",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 154,
+    "name": "Shashank Singh",
+    "team": "Punjab Kings",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 155,
+    "name": "Yuzvendra Chahal",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 156,
+    "name": "Marcus Stoinis",
+    "team": "Punjab Kings",
+    "role": "All-Rounder",
+    "nationality": "Australia",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 157,
+    "name": "Marco Jansen",
+    "team": "Punjab Kings",
+    "role": "All-Rounder",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 158,
+    "name": "Lockie Ferguson",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "New Zealand",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 159,
+    "name": "Xavier Bartlett",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "Australia",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 160,
+    "name": "Azmatullah Omarzai",
+    "team": "Punjab Kings",
+    "role": "All-Rounder",
+    "nationality": "Afghanistan",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 161,
+    "name": "Harpreet Brar",
+    "team": "Punjab Kings",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 162,
+    "name": "Harnoor Singh Pannu",
+    "team": "Punjab Kings",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 163,
+    "name": "Musheer Khan",
+    "team": "Punjab Kings",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 164,
+    "name": "Mitch Owen",
+    "team": "Punjab Kings",
+    "role": "Batter",
+    "nationality": "Australia",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 165,
+    "name": "Nehal Wadhera",
+    "team": "Punjab Kings",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 166,
+    "name": "Priyansh Arya",
+    "team": "Punjab Kings",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 167,
+    "name": "Pyla Avinash",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 168,
+    "name": "Suryansh Shedge",
+    "team": "Punjab Kings",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 169,
+    "name": "Vishnu Vinod",
+    "team": "Punjab Kings",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 170,
+    "name": "Vyshak Vijaykumar",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 171,
+    "name": "Yash Thakur",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 172,
+    "name": "Ben Dwarshuis",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "Australia",
+    "acquisition": "Auction",
+    "price": "₹4.40",
+    "status": "Overseas"
+  },
+  {
+    "id": 173,
+    "name": "Cooper Connolly",
+    "team": "Punjab Kings",
+    "role": "All-Rounder",
+    "nationality": "Australia",
+    "acquisition": "Auction",
+    "price": "₹3.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 174,
+    "name": "Vishal Nishad",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 175,
+    "name": "Pravin Dubey",
+    "team": "Punjab Kings",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 176,
+    "name": "Yashasvi Jaiswal",
+    "team": "Rajasthan Royals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 177,
+    "name": "Ravindra Jadeja",
+    "team": "Rajasthan Royals",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 178,
+    "name": "Sam Curran",
+    "team": "Rajasthan Royals",
+    "role": "All-Rounder",
+    "nationality": "England",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 179,
+    "name": "Donovan Ferreira",
+    "team": "Rajasthan Royals",
+    "role": "Batter",
+    "nationality": "South Africa",
+    "acquisition": "Trade-In",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 180,
+    "name": "Vaibhav Suryavanshi",
+    "team": "Rajasthan Royals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 181,
+    "name": "Riyan Parag",
+    "team": "Rajasthan Royals",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 182,
+    "name": "Dhruv Jurel",
+    "team": "Rajasthan Royals",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 183,
+    "name": "Jofra Archer",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "England",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 184,
+    "name": "Shimron Hetmyer",
+    "team": "Rajasthan Royals",
+    "role": "Batter",
+    "nationality": "West Indies",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 185,
+    "name": "Lhuan-Dre Pretorius",
+    "team": "Rajasthan Royals",
+    "role": "Batter",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 186,
+    "name": "Kwena Maphaka",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 187,
+    "name": "Nandre Burger",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 188,
+    "name": "Sandeep Sharma",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 189,
+    "name": "Shubham Dubey",
+    "team": "Rajasthan Royals",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 190,
+    "name": "Tushar Deshpande",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 191,
+    "name": "Yudhvir Singh Charak",
+    "team": "Rajasthan Royals",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 192,
+    "name": "Ravi Bishnoi",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹7.20",
+    "status": "Indian"
+  },
+  {
+    "id": 193,
+    "name": "Adam Milne",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "New Zealand",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 194,
+    "name": "Ravi Singh",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.95",
+    "status": "Indian"
+  },
+  {
+    "id": 195,
+    "name": "Sushant Mishra",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.90",
+    "status": "Indian"
+  },
+  {
+    "id": 196,
+    "name": "Kuldeep Sen",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.75",
+    "status": "Indian"
+  },
+  {
+    "id": 197,
+    "name": "Vignesh Puthur",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 198,
+    "name": "Yash Punja",
+    "team": "Rajasthan Royals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 199,
+    "name": "Aman Rao",
+    "team": "Rajasthan Royals",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 200,
+    "name": "Brijesh Sharma",
+    "team": "Rajasthan Royals",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 201,
+    "name": "Virat Kohli",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 202,
+    "name": "Rajat Patidar",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 203,
+    "name": "Phil Salt",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Wicket-Keeper",
+    "nationality": "England",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 204,
+    "name": "Tim David",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Batter",
+    "nationality": "Singapore",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 205,
+    "name": "Devdutt Padikkal",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 206,
+    "name": "Jacob Bethell",
+    "team": "Royal Challengers Bengaluru",
+    "role": "All-Rounder",
+    "nationality": "England",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 207,
+    "name": "Krunal Pandya",
+    "team": "Royal Challengers Bengaluru",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 208,
+    "name": "Romario Shepherd",
+    "team": "Royal Challengers Bengaluru",
+    "role": "All-Rounder",
+    "nationality": "West Indies",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 209,
+    "name": "Jitesh Sharma",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 210,
+    "name": "Bhuvneshwar Kumar",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 211,
+    "name": "Josh Hazlewood",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "Australia",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 212,
+    "name": "Yash Dayal",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 213,
+    "name": "Suyash Sharma",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 214,
+    "name": "Abhinandan Singh",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 215,
+    "name": "Nuwan Thushara",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "Sri Lanka",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 216,
+    "name": "Rasikh Dar",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 217,
+    "name": "Swapnil Singh",
+    "team": "Royal Challengers Bengaluru",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 218,
+    "name": "Venkatesh Iyer",
+    "team": "Royal Challengers Bengaluru",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹7.00",
+    "status": "Indian"
+  },
+  {
+    "id": 219,
+    "name": "Mangesh Yadav",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹5.20",
+    "status": "Indian"
+  },
+  {
+    "id": 220,
+    "name": "Jacob Duffy",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "New Zealand",
+    "acquisition": "Auction",
+    "price": "₹2.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 221,
+    "name": "Jordan Cox",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Batter",
+    "nationality": "England",
+    "acquisition": "Auction",
+    "price": "₹0.75",
+    "status": "Overseas"
+  },
+  {
+    "id": 222,
+    "name": "Satwik Deswal",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 223,
+    "name": "Vicky Ostwal",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 224,
+    "name": "Vihaan Malhotra",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 225,
+    "name": "Kanishk Chouhan",
+    "team": "Royal Challengers Bengaluru",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 226,
+    "name": "Travis Head",
+    "team": "Sunrisers Hyderabad",
+    "role": "Batter",
+    "nationality": "Australia",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 227,
+    "name": "Pat Cummins",
+    "team": "Sunrisers Hyderabad",
+    "role": "All-Rounder",
+    "nationality": "Australia",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 228,
+    "name": "Heinrich Klaasen",
+    "team": "Sunrisers Hyderabad",
+    "role": "Wicket-Keeper",
+    "nationality": "South Africa",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 229,
+    "name": "Abhishek Sharma",
+    "team": "Sunrisers Hyderabad",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 230,
+    "name": "Nitish Kumar Reddy",
+    "team": "Sunrisers Hyderabad",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 231,
+    "name": "Ishan Kishan",
+    "team": "Sunrisers Hyderabad",
+    "role": "Wicket-Keeper",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 232,
+    "name": "Harshal Patel",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 233,
+    "name": "Brydon Carse",
+    "team": "Sunrisers Hyderabad",
+    "role": "All-Rounder",
+    "nationality": "England",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 234,
+    "name": "Kamindu Mendis",
+    "team": "Sunrisers Hyderabad",
+    "role": "All-Rounder",
+    "nationality": "Sri Lanka",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 235,
+    "name": "Jaydev Unadkat",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 236,
+    "name": "Zeeshan Ansari",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 237,
+    "name": "Aniket Verma",
+    "team": "Sunrisers Hyderabad",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 238,
+    "name": "Eshan Malinga",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "Sri Lanka",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Overseas"
+  },
+  {
+    "id": 239,
+    "name": "Harsh Dubey",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 240,
+    "name": "R Smaran",
+    "team": "Sunrisers Hyderabad",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Retained",
+    "price": "—",
+    "status": "Indian"
+  },
+  {
+    "id": 241,
+    "name": "Liam Livingstone",
+    "team": "Sunrisers Hyderabad",
+    "role": "All-Rounder",
+    "nationality": "England",
+    "acquisition": "Auction",
+    "price": "₹13.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 242,
+    "name": "Jack Edwards",
+    "team": "Sunrisers Hyderabad",
+    "role": "All-Rounder",
+    "nationality": "Australia",
+    "acquisition": "Auction",
+    "price": "₹3.00",
+    "status": "Overseas"
+  },
+  {
+    "id": 243,
+    "name": "Salil Arora",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹1.50",
+    "status": "Indian"
+  },
+  {
+    "id": 244,
+    "name": "Shivam Mavi",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.75",
+    "status": "Indian"
+  },
+  {
+    "id": 245,
+    "name": "Shivang Kumar",
+    "team": "Sunrisers Hyderabad",
+    "role": "Batter",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 246,
+    "name": "Krains Fuletra",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 247,
+    "name": "Praful Hinge",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 248,
+    "name": "Amit Kumar",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 249,
+    "name": "Onkar Tarmale",
+    "team": "Sunrisers Hyderabad",
+    "role": "Bowler",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  },
+  {
+    "id": 250,
+    "name": "Sakib Hussain",
+    "team": "Sunrisers Hyderabad",
+    "role": "All-Rounder",
+    "nationality": "India",
+    "acquisition": "Auction",
+    "price": "₹0.30",
+    "status": "Indian"
+  }
+]
